@@ -1,0 +1,7 @@
+.vscode
+env
+*.txt
+!requirements.txt
+*.pdf
+*.xlsx
+*.bat
